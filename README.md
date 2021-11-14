@@ -1,1 +1,1 @@
-# e-store-ui
+# e-store
